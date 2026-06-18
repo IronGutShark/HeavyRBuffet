@@ -1,0 +1,21 @@
+Changelog!
+- 10/1/2020 - Initial Launch!
+- 10/2/2020 - Beach Ground Colliders, Pick Uppable Food, Added More  Avatars, Minor Optimizations
+- 10/3/2020 - Optimized Mirror, Seats in front of Mirror, Outside Mirrors, Outside Items, Bug Fixes on Food Items, Replaced Certain Food Items, Added Soda Machine, Added Stairway in Movie Room
+- 10/4/2020 - Optimization toggles, More Outdoor Items, Beach Feature Colliders, Optimized/Replaced Food Items and Signs, Fixes to avatar selector
+- 10/8/2020 - Food Items Now Reset 10 minutes After Dropping The Last Used Item, Added Manual Food Reset Button, Added Privacy Rooms, Stairwell to Roof, Added More Avatars
+- 10/10/2020 - Fixed issue with VR users being unable to select avatars, added avatars
+- 10/14/2020 - Added LOTS of avatars, Added Campfire, Adjusted Avatar Area Buttons
+- 10/21/2020 - Added Features to the Pier, Custom Seat animations on Pillows,  Added Luois Avatar, Optimization (Maps now only update when you are nearby to them)
+- 10/24/2020 - Added some more avatars, Private Rooms simplified
+- 10/26/2020 - Created Discord Group!  Added seats to outdoor chairs, added even more avatars to video games, rearranged avatar buttons, bug fixes
+- 11/06/2020 - Fixed Private Rooms and added private room indicators/doorbell, Added more avatars, Torches added.
+- 11/12/2020 - Added LOTS of avatars [Snerfoil Goodras, Fat Puro's, etc], Added "Who's There?"  Function to private room doorbells.
+- 11/18/2020 - Added more avatars, Reorganized Avatar buttons to simplify them, and also to feature more new avatars.
+- 12/22/2020 - A few more avatars, Added the pick-uppable orca pooltoy, fixed some lighting issues, Upgraded a few buttons, Fixed Mirrors to disable when away from them, and added the Aquatics Bar!
+- 01/02/2021 - Added more avatars, fixed button issues, re-arranged avatar buttons, added feature to enable mirrors based on preference.
+- 01/14/2021 - Simplified mirror buttons to all work together, added Corgsdale avatar panel, added Avatars
+- 01/28/2021 - Reprogrammed Housekeeping function + Mirrors + Private Rooms to be more Optimized.  Added Pens and Avatars
+- 2021-2025 - Various updates for adding avatars and portals, changelog updates were also not kept during this time
+<color=#C40DF8>- 08/04/2025 - SDK 3 Upgrade & Lighting Optimizations Update & Additional Map Optimizations with Additional Detail to the Map.  Revamped Private Rooms, Live Maps, Mirror Management, Avatar Management system to allow for REMOTE UPDATING OF AVATARS VIA PASTEBIN, AND EDIBLE FOOT AT LAST. (Massive Help Recieved from Draggo Laurus)</color>
+- 08/2025 - Added All the new SDK3 features to the world not already added by Laurus: Reorganized and updated ALL Avatar lists, ProTV integration + pickup screens, all URL Image Frames, New/Replaced food items (Tacos, Melon, BBQ+Grill), Ring Toss/Basketball Hoop, New drawing area tools (Backdrop, image tablet)
